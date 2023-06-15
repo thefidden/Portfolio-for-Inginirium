@@ -1,0 +1,1418 @@
+[
+    {
+        "country_id": "1",
+        "name": "China",
+        "population": "1440297825",
+        "area": "9388211"
+    },
+    {
+        "country_id": "2",
+        "name": "India",
+        "population": "1382345085",
+        "area": "2973190"
+    },
+    {
+        "country_id": "3",
+        "name": "United States",
+        "population": "331341050",
+        "area": "9147420"
+    },
+    {
+        "country_id": "4",
+        "name": "Indonesia",
+        "population": "274021604",
+        "area": "1811570"
+    },
+    {
+        "country_id": "5",
+        "name": "Pakistan",
+        "population": "221612785",
+        "area": "770880"
+    },
+    {
+        "country_id": "6",
+        "name": "Brazil",
+        "population": "212821986",
+        "area": "8358140"
+    },
+    {
+        "country_id": "7",
+        "name": "Nigeria",
+        "population": "206984347",
+        "area": "910770"
+    },
+    {
+        "country_id": "8",
+        "name": "Bangladesh",
+        "population": "164972348",
+        "area": "130170"
+    },
+    {
+        "country_id": "9",
+        "name": "Russia",
+        "population": 143400000,
+        "area": 17100000
+    },
+    {
+        "country_id": "10",
+        "name": "Mexico",
+        "population": "129166028",
+        "area": "1943950"
+    },
+    {
+        "country_id": "11",
+        "name": "Japan",
+        "population": "126407422",
+        "area": "364555"
+    },
+    {
+        "country_id": "12",
+        "name": "Ethiopia",
+        "population": "115434444",
+        "area": "1000000"
+    },
+    {
+        "country_id": "13",
+        "name": "Philippines",
+        "population": "109830324",
+        "area": "298170"
+    },
+    {
+        "country_id": "14",
+        "name": "Egypt",
+        "population": "102659126",
+        "area": "995450"
+    },
+    {
+        "country_id": "15",
+        "name": "Vietnam",
+        "population": "97490013",
+        "area": "310070"
+    },
+    {
+        "country_id": "16",
+        "name": "DR Congo",
+        "population": "90003954",
+        "area": "2267050"
+    },
+    {
+        "country_id": "17",
+        "name": "Turkey",
+        "population": "84495243",
+        "area": "769630"
+    },
+    {
+        "country_id": "18",
+        "name": "Iran",
+        "population": "84176929",
+        "area": "1628550"
+    },
+    {
+        "country_id": "19",
+        "name": "Germany",
+        "population": "83830972",
+        "area": "348560"
+    },
+    {
+        "country_id": "20",
+        "name": "Thailand",
+        "population": "69830779",
+        "area": "510890"
+    },
+    {
+        "country_id": "21",
+        "name": "United Kingdom",
+        "population": "67948282",
+        "area": "241930"
+    },
+    {
+        "country_id": "22",
+        "name": "France",
+        "population": "65298930",
+        "area": "547557"
+    },
+    {
+        "country_id": "23",
+        "name": "Italy",
+        "population": "60446035",
+        "area": "294140"
+    },
+    {
+        "country_id": "24",
+        "name": "Tanzania",
+        "population": "60012400",
+        "area": "885800"
+    },
+    {
+        "country_id": "25",
+        "name": "South Africa",
+        "population": "59436725",
+        "area": "1213090"
+    },
+    {
+        "country_id": "26",
+        "name": "Myanmar",
+        "population": "54473253",
+        "area": "653290"
+    },
+    {
+        "country_id": "27",
+        "name": "Kenya",
+        "population": "53968739",
+        "area": "569140"
+    },
+    {
+        "country_id": "28",
+        "name": "South Korea",
+        "population": "51276977",
+        "area": "97230"
+    },
+    {
+        "country_id": "29",
+        "name": "Colombia",
+        "population": "50976248",
+        "area": "1109500"
+    },
+    {
+        "country_id": "30",
+        "name": "Spain",
+        "population": "46757980",
+        "area": "498800"
+    },
+    {
+        "country_id": "31",
+        "name": "Uganda",
+        "population": "45974931",
+        "area": "199810"
+    },
+    {
+        "country_id": "32",
+        "name": "Argentina",
+        "population": "45267449",
+        "area": "2736690"
+    },
+    {
+        "country_id": "33",
+        "name": "Algeria",
+        "population": "43984569",
+        "area": "2381740"
+    },
+    {
+        "country_id": "34",
+        "name": "Sudan",
+        "population": "44019263",
+        "area": "1765048"
+    },
+    {
+        "country_id": "35",
+        "name": "Ukraine",
+        "population": "43686577",
+        "area": "579320"
+    },
+    {
+        "country_id": "36",
+        "name": "Iraq",
+        "population": "40372771",
+        "area": "434320"
+    },
+    {
+        "country_id": "37",
+        "name": "Afghanistan",
+        "population": "39074280",
+        "area": "652860"
+    },
+    {
+        "country_id": "38",
+        "name": "Poland",
+        "population": "37839255",
+        "area": "306230"
+    },
+    {
+        "country_id": "39",
+        "name": "Canada",
+        "population": "37799407",
+        "area": "9093510"
+    },
+    {
+        "country_id": "40",
+        "name": "Morocco",
+        "population": "36985624",
+        "area": "446300"
+    },
+    {
+        "country_id": "41",
+        "name": "Saudi Arabia",
+        "population": "34905942",
+        "area": "2149690"
+    },
+    {
+        "country_id": "42",
+        "name": "Uzbekistan",
+        "population": "33551824",
+        "area": "425400"
+    },
+    {
+        "country_id": "43",
+        "name": "Peru",
+        "population": "33050211",
+        "area": "1280000"
+    },
+    {
+        "country_id": "44",
+        "name": "Angola",
+        "population": "33032075",
+        "area": "1246700"
+    },
+    {
+        "country_id": "45",
+        "name": "Malaysia",
+        "population": "32436963",
+        "area": "328550"
+    },
+    {
+        "country_id": "46",
+        "name": "Mozambique",
+        "population": "31398811",
+        "area": "786380"
+    },
+    {
+        "country_id": "47",
+        "name": "Ghana",
+        "population": "31181428",
+        "area": "227540"
+    },
+    {
+        "country_id": "48",
+        "name": "Yemen",
+        "population": "29935468",
+        "area": "527970"
+    },
+    {
+        "country_id": "49",
+        "name": "Nepal",
+        "population": "29225196",
+        "area": "143350"
+    },
+    {
+        "country_id": "50",
+        "name": "Venezuela",
+        "population": "28421581",
+        "area": "882050"
+    },
+    {
+        "country_id": "51",
+        "name": "Madagascar",
+        "population": "27808395",
+        "area": "581795"
+    },
+    {
+        "country_id": "52",
+        "name": "Cameroon",
+        "population": "26655083",
+        "area": "472710"
+    },
+    {
+        "country_id": "53",
+        "name": "C\u0413\u0491te d'Ivoire",
+        "population": "26486282",
+        "area": "318000"
+    },
+    {
+        "country_id": "54",
+        "name": "North Korea",
+        "population": "25798588",
+        "area": "120410"
+    },
+    {
+        "country_id": "55",
+        "name": "Australia",
+        "population": "25550683",
+        "area": "7682300"
+    },
+    {
+        "country_id": "56",
+        "name": "Niger",
+        "population": "24346468",
+        "area": "1266700"
+    },
+    {
+        "country_id": "57",
+        "name": "Taiwan",
+        "population": "23824369",
+        "area": "35410"
+    },
+    {
+        "country_id": "58",
+        "name": "Sri Lanka",
+        "population": "21428970",
+        "area": "62710"
+    },
+    {
+        "country_id": "59",
+        "name": "Burkina Faso",
+        "population": "20997293",
+        "area": "273600"
+    },
+    {
+        "country_id": "60",
+        "name": "Mali",
+        "population": "20346106",
+        "area": "1220190"
+    },
+    {
+        "country_id": "61",
+        "name": "Romania",
+        "population": "19214608",
+        "area": "230170"
+    },
+    {
+        "country_id": "62",
+        "name": "Malawi",
+        "population": "19211425",
+        "area": "94280"
+    },
+    {
+        "country_id": "63",
+        "name": "Chile",
+        "population": "19144605",
+        "area": "743532"
+    },
+    {
+        "country_id": "64",
+        "name": "Kazakhstan",
+        "population": "18815231",
+        "area": "2699700"
+    },
+    {
+        "country_id": "65",
+        "name": "Zambia",
+        "population": "18468257",
+        "area": "743390"
+    },
+    {
+        "country_id": "66",
+        "name": "Guatemala",
+        "population": "17971382",
+        "area": "107160"
+    },
+    {
+        "country_id": "67",
+        "name": "Ecuador",
+        "population": "17688599",
+        "area": "248360"
+    },
+    {
+        "country_id": "68",
+        "name": "Syria",
+        "population": "17571053",
+        "area": "183630"
+    },
+    {
+        "country_id": "69",
+        "name": "Netherlands",
+        "population": "17141544",
+        "area": "33720"
+    },
+    {
+        "country_id": "70",
+        "name": "Senegal",
+        "population": "16816539",
+        "area": "192530"
+    },
+    {
+        "country_id": "71",
+        "name": "Cambodia",
+        "population": "16758448",
+        "area": "176520"
+    },
+    {
+        "country_id": "72",
+        "name": "Chad",
+        "population": "16502877",
+        "area": "1259200"
+    },
+    {
+        "country_id": "73",
+        "name": "Somalia",
+        "population": "15965848",
+        "area": "627340"
+    },
+    {
+        "country_id": "74",
+        "name": "Zimbabwe",
+        "population": "14899771",
+        "area": "386850"
+    },
+    {
+        "country_id": "75",
+        "name": "Guinea",
+        "population": "13191279",
+        "area": "245720"
+    },
+    {
+        "country_id": "76",
+        "name": "Rwanda",
+        "population": "13005303",
+        "area": "24670"
+    },
+    {
+        "country_id": "77",
+        "name": "Benin",
+        "population": "12175480",
+        "area": "112760"
+    },
+    {
+        "country_id": "78",
+        "name": "Burundi",
+        "population": "11948454",
+        "area": "25680"
+    },
+    {
+        "country_id": "79",
+        "name": "Tunisia",
+        "population": "11839918",
+        "area": "155360"
+    },
+    {
+        "country_id": "80",
+        "name": "Bolivia",
+        "population": "11700207",
+        "area": "1083300"
+    },
+    {
+        "country_id": "81",
+        "name": "Belgium",
+        "population": "11598451",
+        "area": "30280"
+    },
+    {
+        "country_id": "82",
+        "name": "Haiti",
+        "population": "11426356",
+        "area": "27560"
+    },
+    {
+        "country_id": "83",
+        "name": "Cuba",
+        "population": "11325391",
+        "area": "106440"
+    },
+    {
+        "country_id": "84",
+        "name": "South Sudan",
+        "population": "11216250",
+        "area": "610952"
+    },
+    {
+        "country_id": "85",
+        "name": "Dominican Republic",
+        "population": "10866667",
+        "area": "48320"
+    },
+    {
+        "country_id": "86",
+        "name": "Czech Republic (Czechia)",
+        "population": "10712481",
+        "area": "77240"
+    },
+    {
+        "country_id": "87",
+        "name": "Greece",
+        "population": "10413936",
+        "area": "128900"
+    },
+    {
+        "country_id": "88",
+        "name": "Jordan",
+        "population": "10220604",
+        "area": "88780"
+    },
+    {
+        "country_id": "89",
+        "name": "Portugal",
+        "population": "10191409",
+        "area": "91590"
+    },
+    {
+        "country_id": "90",
+        "name": "Azerbaijan",
+        "population": "10154978",
+        "area": "82658"
+    },
+    {
+        "country_id": "91",
+        "name": "Sweden",
+        "population": "10110233",
+        "area": "410340"
+    },
+    {
+        "country_id": "92",
+        "name": "Honduras",
+        "population": "9931333",
+        "area": "111890"
+    },
+    {
+        "country_id": "93",
+        "name": "United Arab Emirates",
+        "population": "9910892",
+        "area": "83600"
+    },
+    {
+        "country_id": "94",
+        "name": "Hungary",
+        "population": "9655983",
+        "area": "90530"
+    },
+    {
+        "country_id": "95",
+        "name": "Tajikistan",
+        "population": "9573310",
+        "area": "139960"
+    },
+    {
+        "country_id": "96",
+        "name": "Belarus",
+        "population": "9448772",
+        "area": "202910"
+    },
+    {
+        "country_id": "97",
+        "name": "Austria",
+        "population": "9015361",
+        "area": "82409"
+    },
+    {
+        "country_id": "98",
+        "name": "Papua New Guinea",
+        "population": "8975531",
+        "area": "452860"
+    },
+    {
+        "country_id": "99",
+        "name": "Serbia",
+        "population": "8731081",
+        "area": "87460"
+    },
+    {
+        "country_id": "100",
+        "name": "Israel",
+        "population": "8678517",
+        "area": "21640"
+    },
+    {
+        "country_id": "101",
+        "name": "Switzerland",
+        "population": "8665615",
+        "area": "39516"
+    },
+    {
+        "country_id": "102",
+        "name": "Togo",
+        "population": "8310934",
+        "area": "54390"
+    },
+    {
+        "country_id": "103",
+        "name": "Sierra Leone",
+        "population": "8004158",
+        "area": "72180"
+    },
+    {
+        "country_id": "104",
+        "name": "Hong Kong",
+        "population": "7507523",
+        "area": "1050"
+    },
+    {
+        "country_id": "105",
+        "name": "Laos",
+        "population": "7293542",
+        "area": "230800"
+    },
+    {
+        "country_id": "106",
+        "name": "Paraguay",
+        "population": "7147553",
+        "area": "397300"
+    },
+    {
+        "country_id": "107",
+        "name": "Bulgaria",
+        "population": "6939018",
+        "area": "108560"
+    },
+    {
+        "country_id": "108",
+        "name": "Libya",
+        "population": "6887247",
+        "area": "1759540"
+    },
+    {
+        "country_id": "109",
+        "name": "Lebanon",
+        "population": "6819976",
+        "area": "10230"
+    },
+    {
+        "country_id": "110",
+        "name": "Nicaragua",
+        "population": "6638075",
+        "area": "120340"
+    },
+    {
+        "country_id": "111",
+        "name": "Kyrgyzstan",
+        "population": "6542426",
+        "area": "191800"
+    },
+    {
+        "country_id": "112",
+        "name": "El Salvador",
+        "population": "6491923",
+        "area": "20720"
+    },
+    {
+        "country_id": "113",
+        "name": "Turkmenistan",
+        "population": "6046292",
+        "area": "469930"
+    },
+    {
+        "country_id": "114",
+        "name": "Singapore",
+        "population": "5858322",
+        "area": "700"
+    },
+    {
+        "country_id": "115",
+        "name": "Denmark",
+        "population": "5795780",
+        "area": "42430"
+    },
+    {
+        "country_id": "116",
+        "name": "Finland",
+        "population": "5542237",
+        "area": "303890"
+    },
+    {
+        "country_id": "117",
+        "name": "Congo",
+        "population": "5540555",
+        "area": "341500"
+    },
+    {
+        "country_id": "118",
+        "name": "Slovakia",
+        "population": "5460109",
+        "area": "48088"
+    },
+    {
+        "country_id": "119",
+        "name": "Norway",
+        "population": "5428594",
+        "area": "365268"
+    },
+    {
+        "country_id": "120",
+        "name": "Oman",
+        "population": "5128058",
+        "area": "309500"
+    },
+    {
+        "country_id": "121",
+        "name": "State of Palestine",
+        "population": "5121112",
+        "area": "6020"
+    },
+    {
+        "country_id": "122",
+        "name": "Costa Rica",
+        "population": "5102158",
+        "area": "51060"
+    },
+    {
+        "country_id": "123",
+        "name": "Liberia",
+        "population": "5077411",
+        "area": "96320"
+    },
+    {
+        "country_id": "124",
+        "name": "Ireland",
+        "population": "4947267",
+        "area": "68890"
+    },
+    {
+        "country_id": "125",
+        "name": "Central African Republic",
+        "population": "4843954",
+        "area": "622980"
+    },
+    {
+        "country_id": "126",
+        "name": "New Zealand",
+        "population": "4829021",
+        "area": "263310"
+    },
+    {
+        "country_id": "127",
+        "name": "Mauritania",
+        "population": "4669775",
+        "area": "1030700"
+    },
+    {
+        "country_id": "128",
+        "name": "Panama",
+        "population": "4326296",
+        "area": "74340"
+    },
+    {
+        "country_id": "129",
+        "name": "Kuwait",
+        "population": "4281320",
+        "area": "17820"
+    },
+    {
+        "country_id": "130",
+        "name": "Croatia",
+        "population": "4100719",
+        "area": "55960"
+    },
+    {
+        "country_id": "131",
+        "name": "Moldova",
+        "population": "4032294",
+        "area": "32850"
+    },
+    {
+        "country_id": "132",
+        "name": "Georgia",
+        "population": "3987805",
+        "area": "69490"
+    },
+    {
+        "country_id": "133",
+        "name": "Eritrea",
+        "population": "3554797",
+        "area": "101000"
+    },
+    {
+        "country_id": "134",
+        "name": "Uruguay",
+        "population": "3475842",
+        "area": "175020"
+    },
+    {
+        "country_id": "135",
+        "name": "Bosnia and Herzegovina",
+        "population": "3277152",
+        "area": "51000"
+    },
+    {
+        "country_id": "136",
+        "name": "Mongolia",
+        "population": "3287242",
+        "area": "1553560"
+    },
+    {
+        "country_id": "137",
+        "name": "Armenia",
+        "population": "2964219",
+        "area": "28470"
+    },
+    {
+        "country_id": "138",
+        "name": "Jamaica",
+        "population": "2963429",
+        "area": "10830"
+    },
+    {
+        "country_id": "139",
+        "name": "Qatar",
+        "population": "2889284",
+        "area": "11610"
+    },
+    {
+        "country_id": "140",
+        "name": "Albania",
+        "population": "2877239",
+        "area": "27400"
+    },
+    {
+        "country_id": "141",
+        "name": "Puerto Rico",
+        "population": "2846860",
+        "area": "8870"
+    },
+    {
+        "country_id": "142",
+        "name": "Lithuania",
+        "population": "2715340",
+        "area": "62674"
+    },
+    {
+        "country_id": "143",
+        "name": "Namibia",
+        "population": "2548663",
+        "area": "823290"
+    },
+    {
+        "country_id": "144",
+        "name": "Gambia",
+        "population": "2427782",
+        "area": "10120"
+    },
+    {
+        "country_id": "145",
+        "name": "Botswana",
+        "population": "2359585",
+        "area": "566730"
+    },
+    {
+        "country_id": "146",
+        "name": "Gabon",
+        "population": "2234448",
+        "area": "257670"
+    },
+    {
+        "country_id": "147",
+        "name": "Lesotho",
+        "population": "2145194",
+        "area": "30360"
+    },
+    {
+        "country_id": "148",
+        "name": "North Macedonia",
+        "population": "2083359",
+        "area": "25220"
+    },
+    {
+        "country_id": "149",
+        "name": "Slovenia",
+        "population": "2078989",
+        "area": "20140"
+    },
+    {
+        "country_id": "150",
+        "name": "Guinea-Bissau",
+        "population": "1975718",
+        "area": "28120"
+    },
+    {
+        "country_id": "151",
+        "name": "Latvia",
+        "population": "1882408",
+        "area": "62200"
+    },
+    {
+        "country_id": "152",
+        "name": "Bahrain",
+        "population": "1711057",
+        "area": "760"
+    },
+    {
+        "country_id": "153",
+        "name": "Equatorial Guinea",
+        "population": "1410419",
+        "area": "28050"
+    },
+    {
+        "country_id": "154",
+        "name": "Trinidad and Tobago",
+        "population": "1400283",
+        "area": "5130"
+    },
+    {
+        "country_id": "155",
+        "name": "Estonia",
+        "population": "1326693",
+        "area": "42390"
+    },
+    {
+        "country_id": "156",
+        "name": "Timor-Leste",
+        "population": "1322667",
+        "area": "14870"
+    },
+    {
+        "country_id": "157",
+        "name": "Mauritius",
+        "population": "1272140",
+        "area": "2030"
+    },
+    {
+        "country_id": "158",
+        "name": "Cyprus",
+        "population": "1208886",
+        "area": "9240"
+    },
+    {
+        "country_id": "159",
+        "name": "Eswatini",
+        "population": "1162233",
+        "area": "17200"
+    },
+    {
+        "country_id": "160",
+        "name": "Djibouti",
+        "population": "990447",
+        "area": "23180"
+    },
+    {
+        "country_id": "161",
+        "name": "Fiji",
+        "population": "897573",
+        "area": "18270"
+    },
+    {
+        "country_id": "162",
+        "name": "R\u0413\u00a9union",
+        "population": "896422",
+        "area": "2500"
+    },
+    {
+        "country_id": "163",
+        "name": "Comoros",
+        "population": "872695",
+        "area": "1861"
+    },
+    {
+        "country_id": "164",
+        "name": "Guyana",
+        "population": "787215",
+        "area": "196850"
+    },
+    {
+        "country_id": "165",
+        "name": "Bhutan",
+        "population": "773069",
+        "area": "38117"
+    },
+    {
+        "country_id": "166",
+        "name": "Solomon Islands",
+        "population": "689671",
+        "area": "27990"
+    },
+    {
+        "country_id": "167",
+        "name": "Macao",
+        "population": "650846",
+        "area": "30"
+    },
+    {
+        "country_id": "168",
+        "name": "Montenegro",
+        "population": "628080",
+        "area": "13450"
+    },
+    {
+        "country_id": "169",
+        "name": "Luxembourg",
+        "population": "627704",
+        "area": "2590"
+    },
+    {
+        "country_id": "170",
+        "name": "Western Sahara",
+        "population": "599769",
+        "area": "266000"
+    },
+    {
+        "country_id": "171",
+        "name": "Suriname",
+        "population": "587541",
+        "area": "156000"
+    },
+    {
+        "country_id": "172",
+        "name": "Cabo Verde",
+        "population": "557026",
+        "area": "4030"
+    },
+    {
+        "country_id": "173",
+        "name": "Maldives",
+        "population": "542151",
+        "area": "300"
+    },
+    {
+        "country_id": "174",
+        "name": "Malta",
+        "population": "441750",
+        "area": "320"
+    },
+    {
+        "country_id": "175",
+        "name": "Brunei",
+        "population": "438202",
+        "area": "5270"
+    },
+    {
+        "country_id": "176",
+        "name": "Guadeloupe",
+        "population": "400136",
+        "area": "1690"
+    },
+    {
+        "country_id": "177",
+        "name": "Belize",
+        "population": "398845",
+        "area": "22810"
+    },
+    {
+        "country_id": "178",
+        "name": "Bahamas",
+        "population": "393893",
+        "area": "10010"
+    },
+    {
+        "country_id": "179",
+        "name": "Martinique",
+        "population": "375213",
+        "area": "1060"
+    },
+    {
+        "country_id": "180",
+        "name": "Iceland",
+        "population": "341628",
+        "area": "100250"
+    },
+    {
+        "country_id": "181",
+        "name": "Vanuatu",
+        "population": "308337",
+        "area": "12190"
+    },
+    {
+        "country_id": "182",
+        "name": "French Guiana",
+        "population": "299958",
+        "area": "82200"
+    },
+    {
+        "country_id": "183",
+        "name": "Barbados",
+        "population": "287437",
+        "area": "430"
+    },
+    {
+        "country_id": "184",
+        "name": "New Caledonia",
+        "population": "285972",
+        "area": "18280"
+    },
+    {
+        "country_id": "185",
+        "name": "French Polynesia",
+        "population": "281191",
+        "area": "3660"
+    },
+    {
+        "country_id": "186",
+        "name": "Mayotte",
+        "population": "273905",
+        "area": "375"
+    },
+    {
+        "country_id": "187",
+        "name": "Sao Tome & Principe",
+        "population": "219844",
+        "area": "960"
+    },
+    {
+        "country_id": "188",
+        "name": "Samoa",
+        "population": "198643",
+        "area": "2830"
+    },
+    {
+        "country_id": "189",
+        "name": "Saint Lucia",
+        "population": "183774",
+        "area": "610"
+    },
+    {
+        "country_id": "190",
+        "name": "Channel Islands",
+        "population": "174140",
+        "area": "190"
+    },
+    {
+        "country_id": "191",
+        "name": "Guam",
+        "population": "169031",
+        "area": "540"
+    },
+    {
+        "country_id": "192",
+        "name": "Cura\u0413\u00a7ao",
+        "population": "164211",
+        "area": "444"
+    },
+    {
+        "country_id": "193",
+        "name": "Kiribati",
+        "population": "119760",
+        "area": "810"
+    },
+    {
+        "country_id": "194",
+        "name": "Micronesia",
+        "population": "115231",
+        "area": "700"
+    },
+    {
+        "country_id": "195",
+        "name": "Grenada",
+        "population": "112614",
+        "area": "340"
+    },
+    {
+        "country_id": "196",
+        "name": "St. Vincent & Grenadines",
+        "population": "111002",
+        "area": "390"
+    },
+    {
+        "country_id": "197",
+        "name": "Aruba",
+        "population": "106845",
+        "area": "180"
+    },
+    {
+        "country_id": "198",
+        "name": "Tonga",
+        "population": "105901",
+        "area": "720"
+    },
+    {
+        "country_id": "199",
+        "name": "U.S. Virgin Islands",
+        "population": "104398",
+        "area": "350"
+    },
+    {
+        "country_id": "200",
+        "name": "Seychelles",
+        "population": "98453",
+        "area": "460"
+    },
+    {
+        "country_id": "201",
+        "name": "Antigua and Barbuda",
+        "population": "98069",
+        "area": "440"
+    },
+    {
+        "country_id": "202",
+        "name": "Isle of Man",
+        "population": "85112",
+        "area": "570"
+    },
+    {
+        "country_id": "203",
+        "name": "Andorra",
+        "population": "77287",
+        "area": "470"
+    },
+    {
+        "country_id": "204",
+        "name": "Dominica",
+        "population": "72017",
+        "area": "750"
+    },
+    {
+        "country_id": "205",
+        "name": "Cayman Islands",
+        "population": "65854",
+        "area": "240"
+    },
+    {
+        "country_id": "206",
+        "name": "Bermuda",
+        "population": "62237",
+        "area": "50"
+    },
+    {
+        "country_id": "207",
+        "name": "Marshall Islands",
+        "population": "59259",
+        "area": "180"
+    },
+    {
+        "country_id": "208",
+        "name": "Northern Mariana Islands",
+        "population": "57619",
+        "area": "460"
+    },
+    {
+        "country_id": "209",
+        "name": "Greenland",
+        "population": "56787",
+        "area": "410450"
+    },
+    {
+        "country_id": "210",
+        "name": "American Samoa",
+        "population": "55169",
+        "area": "200"
+    },
+    {
+        "country_id": "211",
+        "name": "Saint Kitts & Nevis",
+        "population": "53264",
+        "area": "260"
+    },
+    {
+        "country_id": "212",
+        "name": "Faeroe Islands",
+        "population": "48896",
+        "area": "1396"
+    },
+    {
+        "country_id": "213",
+        "name": "Sint Maarten",
+        "population": "42960",
+        "area": "34"
+    },
+    {
+        "country_id": "214",
+        "name": "Monaco",
+        "population": "39290",
+        "area": "1"
+    },
+    {
+        "country_id": "215",
+        "name": "Turks and Caicos",
+        "population": "38806",
+        "area": "950"
+    },
+    {
+        "country_id": "216",
+        "name": "Saint Martin",
+        "population": "38778",
+        "area": "53"
+    },
+    {
+        "country_id": "217",
+        "name": "Liechtenstein",
+        "population": "38147",
+        "area": "160"
+    },
+    {
+        "country_id": "218",
+        "name": "San Marino",
+        "population": "33944",
+        "area": "60"
+    },
+    {
+        "country_id": "219",
+        "name": "Gibraltar",
+        "population": "33689",
+        "area": "10"
+    },
+    {
+        "country_id": "220",
+        "name": "British Virgin Islands",
+        "population": "30266",
+        "area": "150"
+    },
+    {
+        "country_id": "221",
+        "name": "Caribbean Netherlands",
+        "population": "26265",
+        "area": "328"
+    },
+    {
+        "country_id": "222",
+        "name": "Palau",
+        "population": "18109",
+        "area": "460"
+    },
+    {
+        "country_id": "223",
+        "name": "Cook Islands",
+        "population": "17567",
+        "area": "240"
+    },
+    {
+        "country_id": "224",
+        "name": "Anguilla",
+        "population": "15026",
+        "area": "90"
+    },
+    {
+        "country_id": "225",
+        "name": "Tuvalu",
+        "population": "11817",
+        "area": "30"
+    },
+    {
+        "country_id": "226",
+        "name": "Wallis & Futuna",
+        "population": "11203",
+        "area": "140"
+    },
+    {
+        "country_id": "227",
+        "name": "Nauru",
+        "population": "10836",
+        "area": "20"
+    },
+    {
+        "country_id": "228",
+        "name": "Saint Barthelemy",
+        "population": "9882",
+        "area": "21"
+    },
+    {
+        "country_id": "229",
+        "name": "Saint Helena",
+        "population": "6080",
+        "area": "390"
+    },
+    {
+        "country_id": "230",
+        "name": "Saint Pierre & Miquelon",
+        "population": "5789",
+        "area": "230"
+    },
+    {
+        "country_id": "231",
+        "name": "Montserrat",
+        "population": "4993",
+        "area": "100"
+    },
+    {
+        "country_id": "232",
+        "name": "Falkland Islands",
+        "population": "3497",
+        "area": "12170"
+    },
+    {
+        "country_id": "233",
+        "name": "Niue",
+        "population": "1628",
+        "area": "260"
+    },
+    {
+        "country_id": "234",
+        "name": "Tokelau",
+        "population": "1360",
+        "area": "10"
+    },
+    {
+        "country_id": "235",
+        "name": "Holy See",
+        "population": "801",
+        "area": "0"
+    },
+    {
+        "area": 9519431,
+        "country_id": 236,
+        "name": "United States of America",
+        "population": 331900000
+    }
+]
